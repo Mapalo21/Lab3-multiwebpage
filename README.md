@@ -1,6 +1,8 @@
 # Lab 3: Multi-page Website
 
 **Group Member:** Chibotu Shapenga
+                  Mapalo Sichone
+
 
 ## Page Descriptions
 
